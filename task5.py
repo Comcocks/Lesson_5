@@ -47,5 +47,5 @@ plt.xlabel("Image size (px)")
 plt.ylabel("Memory (Mb)")
 
 plt.tight_layout()
-plt.savefig("results/time_memory_dependence.png")
+plt.savefig("results/task5.png")
 plt.close()
